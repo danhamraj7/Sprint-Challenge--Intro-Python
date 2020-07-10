@@ -12,10 +12,12 @@ class GroundVehicle():
 
 # Subclass Motorcycle from GroundVehicle.
 #
-# Make it so when you instantiate a Motorcycle, it automatically sets the number
+# Make it so when you instantiate a Motorcycle, it automatically
+# sets the number
 # of wheels to 2 by passing that to the constructor of its superclass.
 #
-# Override the drive() method in Motorcycle so that it returns "BRAAAP!!"
+# Override the drive() method in Motorcycle so that it
+#  returns "BRAAAP!!"
 
 # TODO
 
@@ -27,6 +29,7 @@ vehicles = [
     Motorcycle(),
 ]
 
-# Go through the vehicles list and print the result of calling drive() on each.
+# Go through the vehicles list and print the result of
+# calling drive() on each.
 
 # TODO
