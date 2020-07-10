@@ -38,7 +38,7 @@ class Starship(FlightVehicle):
 # Airplane: child of FlightVehicle
 
 
-class Airplane(FlightVechicle):
+class Airplane(FlightVehicle):
     pass
 
 # GroundVehicle: child of Vehicle
